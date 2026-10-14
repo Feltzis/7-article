@@ -1,0 +1,45 @@
+html{
+    background-color: #f5f5f5;
+}
+
+.uwm-header {
+    background-color: rgb(249, 170, 244);
+    padding: 10px;
+    color:rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+.uwm-main {
+    padding: 10px;
+    background-color:rgb(255, 235, 125);
+    color: rgb(48, 49, 46);
+    margin-bottom: 10px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.article-section {
+    padding: 10px;
+    background-color:rgb(237, 214, 85);
+    margin-bottom: 10px;
+}
+
+.callout{
+    padding: 10px;
+    background-color:rgb(247, 164, 190);
+    margin-bottom: 10px;
+    color:rgb(128, 37, 129);
+}
+
+.site-footer {
+    padding: 10px;
+    background-color:aquamarine;
+    margin-bottom: 10px;
+}
+.border {
+    padding: 10px;
+    border-top: 3px solid black;
+}
